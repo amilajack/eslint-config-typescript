@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-typescript",
+  "version": "0.0.1",
+  "description": "Typescript config for eslint",
+  "main": "index.json",
+  "repository": "git@github.com:amilajack/eslint-config-typescript.git",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint-plugin-typescript": "^0.8.0",
+    "typescript-eslint-parser": "^8.0.0"
+  },
+  "files": [
+    "index.json"
+  ],
+  "engines": {
+    "node": ">=4.x",
+    "npm": ">=3.x"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.0.0",
+    "typescript": ">=2.5.1"
+  }
+}
