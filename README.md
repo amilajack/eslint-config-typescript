@@ -1,4 +1,7 @@
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/eslint-config-typescript.svg)](https://greenkeeper.io/)
+
 ```bash
 npm install --save-dev eslint-config-typescript
 ```
